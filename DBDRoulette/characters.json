@@ -3389,5 +3389,77 @@
       "",
       ""
     ]
+  },
+  "268435494": {
+    "id": "K39",
+    "name": "The Ghoul",
+    "role": "killer",
+    "difficulty": "intermediate",
+    "gender": "male",
+    "height": "average",
+    "bio": "",
+    "story": "",
+    "tunables": null,
+    "item": null,
+    "outfit": [
+      "",
+      "",
+      ""
+    ],
+    "dlc": "",
+    "image": "img/survivors/TheGhoul.webp",
+    "perks": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "268435495": {
+    "id": "K40",
+    "name": "The Animatronic",
+    "role": "killer",
+    "difficulty": "intermediate",
+    "gender": "male",
+    "height": "average",
+    "bio": "",
+    "story": "",
+    "tunables": null,
+    "item": null,
+    "outfit": [
+      "",
+      "",
+      ""
+    ],
+    "dlc": "",
+    "image": "img/survivors/TheAnimatronic.webp",
+    "perks": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "268435496": {
+    "id": "K40",
+    "name": "The Krasue",
+    "role": "killer",
+    "difficulty": "intermediate",
+    "gender": "female",
+    "height": "average",
+    "bio": "",
+    "story": "",
+    "tunables": null,
+    "item": null,
+    "outfit": [
+      "",
+      "",
+      ""
+    ],
+    "dlc": "",
+    "image": "img/survivors/TheKrasue.webp",
+    "perks": [
+      "",
+      "",
+      ""
+    ]
   }
 }
