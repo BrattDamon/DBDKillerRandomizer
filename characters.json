@@ -3461,5 +3461,29 @@
       "",
       ""
     ]
+  },
+  "268435497": {
+    "id": "K42",
+    "name": "The First",
+    "role": "killer",
+    "difficulty": "intermediate",
+    "gender": "male",
+    "height": "average",
+    "bio": "",
+    "story": "",
+    "tunables": null,
+    "item": null,
+    "outfit": [
+      "",
+      "",
+      ""
+    ],
+    "dlc": "",
+    "image": "img/killers/TheFirst.webp",
+    "perks": [
+      "",
+      "",
+      ""
+    ]
   }
 }
